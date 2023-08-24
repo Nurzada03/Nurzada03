@@ -1,4 +1,7 @@
-Hi 👋, I am Nurzada
+                    Hi 👋, I am Nurzada
+----------------------------------------------------------------------------------------
+
+            Frontend Developer (ReactJS)
 
 
 About me
